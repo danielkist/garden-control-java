@@ -1,0 +1,15 @@
+package in.k2s.raspberry.garden.control.enumeration;
+
+public enum SystemBoard {
+	
+	UNDEFINED,
+	RASPBERRY_PY_A,
+	RASPBERRY_PY_A_PLUS,
+	RASPBERRY_PY_B,
+	RASPBERRY_PY_B_PLUS,
+	RASPBERRY_PY_2_A,
+	RASPBERRY_PY_2_B,
+	RASPBERRY_PY_ZERO,
+	RASPBERRY_PY_MODULE_DEV_KIT
+
+}
